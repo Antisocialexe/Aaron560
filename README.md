@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Blinker11696?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Blinker11696)
 
-## I'm a Student!!
+## Hey there i like to program as sort of a hobby, I find it interesting what we can create with our imagination. 
 
-- 🌱 I’m currently learning Javascript
-- 🥅 2021 Goals: Finish my schooling.
+- 🌱 Currently creating a reddit Clone
+- 🥅 2022 Goals: Make a few interesting projects.
 - ⚡ Fun fact: I am a potato.
 
 ### Connect with me:
