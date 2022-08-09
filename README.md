@@ -16,6 +16,9 @@
     <a href="https://www.codewars.com/users/Blinker">
       <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge"/>
     </a>
+    <a href="https://ko-fi.com/blinker1166">
+      <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-hi Badge"/>
+    </a>
     
   </div>
   
