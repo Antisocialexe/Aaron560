@@ -25,7 +25,7 @@
   <img src="https://komarev.com/ghpvc/?username=Aaron560&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    Hey there I'm Aaron. I like to create programs and scripts for things i find interesting.
+    Hey there I'm Aaron. I like to create programs and scripts for things I find interesting.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
