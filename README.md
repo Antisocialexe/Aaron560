@@ -35,9 +35,9 @@
 ### :man_technologist: About Me :
 - :telescope: I’m working as a Software Engineer Freelancer. Programming and problem solving as a hobby.
 
-- :seedling: Learning & exlporing Ruby.
+- :seedling: Learning & exploring Ruby.
 
-- :zap: In my free time, I solve problems on CodeWars and write automation scipts for my everyday mundane tasks.
+- :zap: In my free time, I solve problems on CodeWars and write automation scripts for my everyday mundane tasks.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aaron560-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-ashcraft-2ba6831a1/)
 
